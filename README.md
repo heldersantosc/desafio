@@ -2,11 +2,11 @@
 
 ## Sumário
 
-1 - Projeto.
-2 - Pastas.
-3 - Link Http.
-4 - Tecnologia.
-5 - Instalação.
+1. Projeto.
+2. Pastas.
+3. Link Http.
+4. Tecnologia.
+5. Instalação.
 
 ## Projeto
 
@@ -31,7 +31,7 @@ O desafio esta divido em duas pastas:
 ## Link http
 
 O desafio está disponibilizado temporariamente no link:
-<http://sso-login-com-br.umbler.net/ >.
+<http://sso-login-com-br.umbler.net/> .
 Basta acessar e realizar o cadastro, login e navegação.
 
 ## Tecnologia
