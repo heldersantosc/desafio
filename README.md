@@ -16,7 +16,7 @@
 
 ## 1. Projeto
 
-Single Sign On é um mescanismo de login que possibilita a autenticação do usuário em vários canais acessando a partir do mesmo domínio.
+Single Sign On é um mescanismo de login que possibilita a autenticação do usuário para navegação em vários canais.
 Este desafio foi criado respeitando os seguintes critérios.
 
 - Implemente uma única feature, a de criação de contas de usuário, ...
@@ -51,3 +51,15 @@ Basta acessar e realizar o cadastro, login e navegação .
 ## 5. Instalações
 
 ### 5.1 - NodeJs
+
+Versão LTS: 12.18.3
+Link para instalação do node: <https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi>
+
+- Realizar a instalação do programa Nodejs.
+- Verificar se foi instalado usando linha de comando.
+
+```sh
+node -v
+```
+
+### 5.2 -
