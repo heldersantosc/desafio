@@ -88,4 +88,12 @@ npm install -g create-react-app
 ## 6. Instalação de pacotes
 
 Como o programa está divido em duas aplicações, será necessário realizar a instalação de cada pacote separadamente.
-Primeiro os pacotes de dependência do \${Backend}.
+
+1. Pacotes de dependência do **Backend**.
+
+- Na linha de comando digite.
+
+```sh
+cd api_login
+npm install
+```
