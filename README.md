@@ -112,3 +112,29 @@ cd sso_login
 ```
 
 ![](img/sso_login_yarn_install.png)
+
+- Após a execução do comando uma pasta node_modules será criada dentro da pasta **sso_login** com todas as dependências necessárias.
+
+## 7. Execução
+
+### 7.1. Execução do Backend
+
+- Na linha de comando
+
+```sh
+cd api_login
+    npm start
+```
+
+![](img/api_login_npm_start.png)
+
+### 7.2. Execução do Frontend
+
+- Na linha de comando
+
+```sh
+cd sso_login
+    npm start
+```
+
+![](img/sso_login_npm_start.png)
