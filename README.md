@@ -5,6 +5,7 @@
 - Nodejs
 - Reactjs
 - Yarn
+- Navegador (Firefox, Chrome)
 
 ## Sumário
 
@@ -128,6 +129,8 @@ cd api_login
 
 ![](img/api_login_npm_start.png)
 
+As mensagens de porta e banco serão exibidas.
+
 ### 7.2. Execução do Frontend
 
 - Na linha de comando
@@ -138,3 +141,5 @@ cd sso_login
 ```
 
 ![](img/sso_login_npm_start.png)
+
+- Uma aba do navegador será aberta com a aplicação em execução.
