@@ -93,7 +93,7 @@ Como o programa está divido em duas aplicações, será necessário realizar a 
 
 - Na linha de comando digite.
 
-```dos
+```sh
 cd api_login
     npm install
 ```
@@ -106,7 +106,7 @@ cd api_login
 
 - Na linha de comando
 
-```dos
+```sh
 cd sso_login
     yarn install
 ```
