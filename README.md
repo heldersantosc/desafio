@@ -89,7 +89,7 @@ npm install -g create-react-app
 
 Como o programa está divido em duas aplicações, será necessário realizar a instalação de cada pacote separadamente.
 
-1. Pacotes de dependência do **Backend**.
+### 6.1. Pacotes de dependência do **Backend**.
 
 - Na linha de comando digite.
 
@@ -102,7 +102,7 @@ cd api_login
 
 - Após a execução do comando uma pasta node_modules será criada dentro da pasta **api_login** com todas as dependências necessárias.
 
-2. Pacotes de dependência do **Frontend**.
+### 6.2. Pacotes de dependência do **Frontend**.
 
 - Na linha de comando
 
