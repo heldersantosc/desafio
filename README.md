@@ -62,4 +62,23 @@ Link para instalação do node: <https://nodejs.org/dist/v12.18.3/node-v12.18.3-
 node -v
 ```
 
-### 5.2 -
+Se tudo estiver ok, o número da versão instalada sera exibido.
+
+### 5.2 - Yarn
+
+Yarn é um gerenciador de pacotes semelhante o NPM.
+
+- Na linha de comando digite.
+
+```sh
+npm install -g yarn
+
+```
+
+### 5.3 - React
+
+- Na linha de comando digite.
+
+```sh
+npm install -g create-react-app
+```
