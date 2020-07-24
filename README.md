@@ -98,10 +98,12 @@ cd api_login
     npm install
 ```
 
-![](img/sso_login_npm_install.png)
+![](img/api_login_npm_install.png)
 
-- Após a execução do comando uma pasta node_modules deve ser criada dentro da pasta **api_login** com todas as dependências necessárias.
+- Após a execução do comando uma pasta node_modules será criada dentro da pasta **api_login** com todas as dependências necessárias.
 
 2. Pacotes de dependência do **Frontend**.
 
 - Na linha de comando
+
+![](img/sso_login_yarn_install.png)
