@@ -1,12 +1,18 @@
 # Single Sign On - SSO
 
+## Requisitos
+
+- Nodejs
+- Reactjs
+- Yarn
+
 ## Sumário
 
 1. Projeto.
 2. Pastas.
 3. Link Http.
 4. Tecnologia.
-5. Instalação.
+5. Instalações.
 
 ## 1. Projeto
 
@@ -32,12 +38,16 @@ O desafio esta divido em duas pastas:
 
 O desafio está disponibilizado temporariamente no link:
 <http://sso-login-com-br.umbler.net/> .
-Basta acessar e realizar o cadastro, login e navegação.
+Basta acessar e realizar o cadastro, login e navegação .
 
-## 4. Tecnologia
+## 4. Tecnologias
 
 | **App**  | **Linguagem** |
 | -------- | ------------- |
 | Backend  | Nodejs        |
 | Frontend | ReactJs       |
 | Banco    | MongoDB       |
+
+## 5. Instalações
+
+### 5.1 - NodeJs
