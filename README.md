@@ -9,7 +9,7 @@ Este desafio foi criado respeitando os seguintes critérios.
 
 As demais implementações são plus para entrega do Desafio.
 
-# Tecnologia
+## Tecnologia
 
 [ Banco de Dados - MongoAtlas(cloud) ]
 
