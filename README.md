@@ -13,9 +13,6 @@ As demais implementações como login, autenticação, ... são plus para entreg
 
 O desafio esta divido em duas pastas
 
-- api_login -> backend
-- sso_login -> frontend
-
 | **App**  | **Pasta** |
 | -------- | --------- |
 | Backend  | api_login |
@@ -23,7 +20,8 @@ O desafio esta divido em duas pastas
 
 ## Link http
 
-O desafio está disponibilizado no link:
+O desafio está disponibilizado temporariamente no link:
+http://sso-login-com-br.umbler.net/
 
 ## Tecnologia
 
