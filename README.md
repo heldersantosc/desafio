@@ -106,4 +106,9 @@ cd api_login
 
 - Na linha de comando
 
+```sh
+cd sso_login
+    yarn install
+```
+
 ![](img/sso_login_yarn_install.png)
