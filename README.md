@@ -95,5 +95,13 @@ Como o programa está divido em duas aplicações, será necessário realizar a 
 
 ```sh
 cd api_login
-npm install
+    npm install
 ```
+
+(img/sso_login_npm_install.png)
+
+- Após a execução do comando uma pasta node_modules deve ser criada dentro da pasta **api_login** com todas as dependências necessárias.
+
+2. Pacotes de dependência do **Frontend**.
+
+- Na linha de comando
