@@ -13,6 +13,8 @@
 3. Link Http.
 4. Tecnologia.
 5. Instalações.
+6. Instalação pacotes.
+7. Execução.
 
 ## 1. Projeto
 
@@ -52,7 +54,7 @@ Basta acessar e realizar o cadastro, login e navegação .
 
 ### 5.1 - NodeJs
 
-Versão LTS: 12.18.3
+Versão LTS: 12.18.3.
 Link para instalação do node: <https://nodejs.org/dist/v12.18.3/node-v12.18.3-x64.msi>
 
 - Realizar a instalação do programa Nodejs.
@@ -62,7 +64,7 @@ Link para instalação do node: <https://nodejs.org/dist/v12.18.3/node-v12.18.3-
 node -v
 ```
 
-Se tudo estiver ok, o número da versão instalada sera exibido.
+Se tudo estiver ok, o número da versão instalada será exibido.
 
 ### 5.2 - Yarn
 
@@ -75,10 +77,15 @@ npm install -g yarn
 
 ```
 
-### 5.3 - React
+### 5.3 - ReactJs
 
 - Na linha de comando digite.
 
 ```sh
 npm install -g create-react-app
 ```
+
+## 6. Instalação de pacotes
+
+Como o programa está divido em duas aplicações, será necessário realizar a instalação de cada pacote separadamente.
+Primeiro os pacotes de dependência do \${Backend}.
