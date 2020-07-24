@@ -5,20 +5,36 @@ Este desafio foi criado respeitando os seguintes critérios.
 
 - Implemente uma única feature, a de criação de contas de usuário, ...
   - Deve existir uma interface de interação para utilização da feature....
-  - Durante o preenchimento dos campos o usuário deve apresentar um endereço válido,
+  - Durante o preenchimento dos campos o usuário deve apresentar um endereço válido,.
 
-As demais implementações são plus para entrega do Desafio.
+As demais implementações como login, autenticação, ... são plus para entrega do desafio.
+
+## Pastas
+
+O desafio esta divido em duas pastas
+
+- api_login -> backend
+- sso_login -> frontend
+
+| **App**  | **Pasta** |
+| -------- | --------- |
+| Backend  | api_login |
+| Frontend | sso_login |
+
+## Link http
+
+O desafio está disponibilizado no link:
 
 ## Tecnologia
 
-[ Banco de Dados - MongoAtlas(cloud) ]
+**Banco de Dados - MongoAtlas(cloud)**
 
 - MongoDb
 
-[ Backend - api_login ]
+**Backend - api_login**
 
 - Nodejs
 
-[ Frontend - sso_login ]
+**Frontend - sso_login**
 
 - ReactJs
