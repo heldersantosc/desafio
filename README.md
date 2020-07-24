@@ -8,7 +8,7 @@
 4. Tecnologia.
 5. Instalação.
 
-## Projeto
+## 1. Projeto
 
 Single Sign On é um mescanismo de login que possibilita a autenticação do usuário em vários canais acessando a partir do mesmo domínio.
 Este desafio foi criado respeitando os seguintes critérios.
@@ -19,7 +19,7 @@ Este desafio foi criado respeitando os seguintes critérios.
 
 As demais implementações como login, autenticação, ... são plus para entrega do desafio.
 
-## Pastas
+## 2. Pastas
 
 O desafio esta divido em duas pastas:
 
@@ -28,13 +28,13 @@ O desafio esta divido em duas pastas:
 | Backend  | api_login |
 | Frontend | sso_login |
 
-## Link http
+## 3. Link http
 
 O desafio está disponibilizado temporariamente no link:
 <http://sso-login-com-br.umbler.net/> .
 Basta acessar e realizar o cadastro, login e navegação.
 
-## Tecnologia
+## 4. Tecnologia
 
 | **App**  | **Linguagem** |
 | -------- | ------------- |
