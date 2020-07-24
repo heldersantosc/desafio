@@ -2,11 +2,11 @@
 
 ## Sumário
 
-1 - Projeto
-2 - Pastas
-3 - Link Http
-4 - Tecnologia
-5 - Instalação
+1 - Projeto.
+2 - Pastas.
+3 - Link Http.
+4 - Tecnologia.
+5 - Instalação.
 
 ## Projeto
 
