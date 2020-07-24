@@ -120,7 +120,7 @@ cd sso_login
 
 ### 7.1. Execução do Backend
 
-- Na linha de comando
+- Em uma nova linha de comando
 
 ```sh
 cd api_login
@@ -133,7 +133,7 @@ As mensagens de porta e banco serão exibidas.
 
 ### 7.2. Execução do Frontend
 
-- Na linha de comando
+- Em uma nova de linha de comando
 
 ```sh
 cd sso_login

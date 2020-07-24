@@ -36,7 +36,7 @@ mongoose.connection.on("disconnected", () => {
 
 /** ******* */
 
-const port = process.env.PORT ? process.env.PORT : 3000;
+const port = process.env.PORT ? process.env.PORT : 3001;
 app.listen(port, function () {
   console.log("API running on port:", port);
 });
